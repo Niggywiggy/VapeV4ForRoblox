@@ -3472,7 +3472,7 @@ run(function()
 	Value = Timer:CreateSlider({
 		Name = 'Value',
 		Min = 1,
-		Max = 3,
+		Max = 500,
 		Decimal = 10
 	})
 end)
